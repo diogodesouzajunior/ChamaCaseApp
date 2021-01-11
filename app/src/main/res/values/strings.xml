@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chama Case App</string>
+    <string name="API_KEY">AIzaSyAUN83IqBAmtahdrkpFa16BncM46fC_FE4</string>
+
+    <string name="request_timed_out">Conexão excedeu o tempo limite</string>
+    <string name="failed_to_connect">Não foi possível conectar-se ao servidor.</string>
+    <string name="wait">Aguarde …</string>
+
+
+    <string name="trace_route">Você gostaria de traçar uma rota para este estabelecimento?</string>
+
+
+</resources>
